@@ -3,12 +3,16 @@ character :{
     name: '',
     type: '',
     age: '',
+    proffession: '',
     life: '',
     magic: '',
     strength: '',
     rank: '',
     experience: '',
     equipment: '',
+    limitations: '',
+    weakness: '',
+
 
 }
 
@@ -18,19 +22,23 @@ names:
 first name (male):
 {
 'og', 'zorg', 'bran', 'bill', 'john', 'danny', 'sam', 'skip', 'koko', 'sal', 'roger', 'roe',
-'simson'
+'simson', 'soso', 'jany'
 }
 first name (female):
 {
     'ruth', 'gal', 'cinthya', 'brolla', 'georgie', 'hilda', 'balbala', 'loney', 'merka'
-    , 'jenny'
+    , 'jenny', 'sara'
 }
 last name:
 {
-    'banana', 'cohen', 'lashala', 'sonson', 'rara', 'moglior', 'radibia', 'birdala'
+    'banana', 'cohen', 'lashala', 'sonson', 'rara', 'moglior', 'radibia', 'birdala', 'poka', 'rigalux'
 }
 types:
 {
-    'human', 'orc', 'elf', 'hobbit', 'dwarves', 'undead', 'lizard', 'snake', 'bear'
-    'cat', 'dino', 'cantaur', '
+    'human', 'orc', 'elf', 'hobbit', 'dwarf', 'undead', 'lizard', 'snake', 'bear'
+    'cat', 'dino', 'cantaur', 'mech'
+}
+proffesion:
+{
+  'magician', 'witch', 'warrior', 'monk' , 'thief', 'bard', 'pirate', 'acrobat'
 }
